@@ -1,113 +1,127 @@
 <div align="center">
 
-# 👋 Hello, I'm [Huỳnh Thanh Ý]
+# 👋 Xin chào, tôi là [Tên của bạn]
 
-**Developer | Designer | Creator**
+**Lập trình viên | Thiết kế | Người sáng tạo**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-cua-ban.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kaykingsaov.mastertool)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaykingsaov.mmo@gmail.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=🚀+Xây+dựng+những+điều+tuyệt+vời;💡+Đam+mê+mã+nguồn+mở;🌱+Luôn+học+hỏi+công+nghệ+mới;🎯+Tập+trung+vào+code+sạch;✨+Làm+cho+web+tốt+đẹp+hơn" alt="Typing SVG" />
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Thống Kê GitHub
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hynhthanhtoolx&show_icons=true&theme=radical&hide_border=true)
+![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&locale=vi&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&locale=vi)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hynhthanhtoolx&theme=radical&hide_border=true)
+![Chuỗi đóng góp](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&locale=vi)
 
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Công Nghệ Sử Dụng
 
-### **Frontend**
+### **🎨 Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### **Backend**
+### **⚙️ Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Database**
+### **🗄️ Cơ sở dữ liệu**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Tools & Platforms**
+### **🔧 Công cụ & Nền tảng**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 📌 Featured Projects
+## 📌 Dự Án Nổi Bật
 
 <div align="center">
 
-### 🚀 [Project Name](https://github.com/yourusername/project)
-*A brief description of your project*
+### 🚀 [Tên Dự Án](https://github.com/yourusername/project)
+*Mô tả ngắn gọn về dự án của bạn*
 
-![Tech Stack](https://img.shields.io/badge/Tech_Stack-React-61DAFB?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Công nghệ](https://img.shields.io/badge/Công_nghệ-React-61DAFB?style=flat-square)
+![Trạng thái](https://img.shields.io/badge/Trạng_thái-Đang_phát_triển-brightgreen?style=flat-square)
 
 ---
 
-### 🌟 [Another Project](https://github.com/yourusername/another-project)
-*Description of another awesome project*
+### 🌟 [Dự Án Khác](https://github.com/yourusername/another-project)
+*Mô tả về một dự án tuyệt vời khác*
 
-![Tech Stack](https://img.shields.io/badge/Tech_Stack-Vue.js-4FC08D?style=flat-square)
-![Stars](https://img.shields.io/github/stars/yourusername/another-project?style=flat-square)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true)
+![Công nghệ](https://img.shields.io/badge/Công_nghệ-Vue.js-4FC08D?style=flat-square)
+![⭐ Sao](https://img.shields.io/github/stars/yourusername/another-project?style=flat-square&label=Sao)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Biểu Đồ Đóng Góp
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=4)
+![Biểu đồ hoạt động GitHub](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&locale=vi&bg_color=0d1117&color=ff6b8b&line=ff6b8b&point=ffffff)
 
 </div>
 
-## 📫 Let's Connect
+## 🏆 Thành Tựu GitHub
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+![Thành tựu GitHub](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=4&locale=vi)
+
+</div>
+
+## 🌟 Dự Án Được Ghim
+
+<div align="center">
+
+<a href="https://github.com/yourusername/cool-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cool-project&theme=radical&locale=vi" />
+</a>
+
+<a href="https://github.com/yourusername/another-cool-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-cool-project&theme=radical&locale=vi" />
+</a>
+
+</div>
+
+## 📫 Kết Nối Với Tôi
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Trang_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://website-cua-ban.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/youruserid)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 </div>
 
-## 💡 Fun Facts
+## 📝 Bài Viết Mới Nhất
 
-<div align="center">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=435&lines=🚀+Building+amazing+things;💡+Passionate+about+open+source;🌱+Always+learning+new+tech;🎯+Focus+on+clean+code;✨+Making+the+web+better" alt="Typing SVG" />
+## 🎵 Đang Nghe Trên Spotify
 
-</div>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/yourspotifyid)
 
----
+## 🎮 Thống Kê WakaTime (Nếu có)
 
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-
-⭐ **Feel free to star my repositories if you find them useful!** ⭐
-
-</div>
+```text
+🐍 Python       ████████████░░░░░░░░░░░   50.0% 
+🌐 JavaScript   ██████████░░░░░░░░░░░░░   41.6% 
+💻 HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░   8.4%
