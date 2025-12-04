@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Banner chào mừng động -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b8b&height=200&section=header&text=✨Xin+Chào✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Chào mừng" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=200&section=header&text=✨Xin+Chào✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Chào mừng" />
 
 <!-- Tên với hiệu ứng gradient -->
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=Tôi+là+%F0%9F%91%8B+L%E1%BA%A1i;L%E1%BA%ADp+Tr%C3%ACnh+Vi%C3%AAn+Full-Stack;Ng%C6%B0%E1%BB%9Di+S%C3%A1ng+T%E1%BA%A1o;V%C3%A0+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=Tôi+là+%F0%9F%91%8B+L%E1%BA%A1i;L%E1%BA%ADp+Tr%C3%ACnh+Vi%C3%AAn+Full-Stack;Ng%C6%B0%E1%BB%9Di+S%C3%A1ng+T%E1%BA%A1o;V%C3%A0+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -46,15 +46,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&locale=vi&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6b8b&icon_color=ff6b8b&text_color=ffffff&border_radius=10" alt="Thống kê GitHub" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&locale=vi&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3498db&icon_color=3498db&text_color=ffffff&border_radius=10" alt="Thống kê GitHub" height="180" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&locale=vi&bg_color=0d1117&title_color=ff6b8b&text_color=ffffff&border_radius=10&exclude_repo=github-readme-stats" alt="Ngôn ngữ sử dụng" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&locale=vi&bg_color=0d1117&title_color=3498db&text_color=ffffff&border_radius=10&exclude_repo=github-readme-stats" alt="Ngôn ngữ sử dụng" height="180" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&locale=vi&background=0d1117&fire=ff6b8b&ring=ff6b8b&currStreakLabel=ff6b8b&border_radius=10" alt="Chuỗi đóng góp" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&locale=vi&background=0d1117&fire=3498db&ring=3498db&currStreakLabel=3498db&border_radius=10" alt="Chuỗi đóng góp" width="100%" />
     </td>
   </tr>
 </table>
@@ -98,7 +98,7 @@
       <h3 align="center">🚀 Project One</h3>
       <div align="center">
         <a href="https://github.com/yourusername/project-one">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=radical&bg_color=0d1117&title_color=ff6b8b&text_color=ffffff&border_radius=10" width="90%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=radical&bg_color=0d1117&title_color=3498db&text_color=ffffff&border_radius=10" width="90%" />
         </a>
         <p align="center">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -111,7 +111,7 @@
       <h3 align="center">💡 Project Two</h3>
       <div align="center">
         <a href="https://github.com/yourusername/project-two">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=radical&bg_color=0d1117&title_color=ff6b8b&text_color=ffffff&border_radius=10" width="90%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=radical&bg_color=0d1117&title_color=3498db&text_color=ffffff&border_radius=10" width="90%" />
         </a>
         <p align="center">
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -130,112 +130,64 @@
 <div align="center">
 
 <!-- Activity Graph -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&bg_color=0d1117&color=ff6b8b&line=ff6b8b&point=ffffff&area=true&area_color=ff6b8b&custom_title=Hoạt+Động+Đóng+Góp&locale=vi)
+![](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&bg_color=0d1117&color=3498db&line=3498db&point=ffffff&area=true&area_color=3498db&custom_title=Hoạt+Động+Đóng+Góp&locale=vi)
 
 </div>
 
-## 🏆 Thành Tựu
+## 💻 Đang Làm Việc
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Thành tựu GitHub" />
-
-<!-- GitHub Stats Card -->
+<!-- Currently working on -->
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical&hide_border=true&layout=compact&langs_count=8&custom_title=Thời+Gian+Code&locale=vi" alt="WakaTime" />
+    <td width="33%">
+      <h4 align="center">📚 Đang Học</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      </p>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=donut&langs_count=8&custom_title=Ngôn+Ngữ+Ưa+Thích&locale=vi" alt="Ngôn ngữ ưa thích" />
+    <td width="33%">
+      <h4 align="center">🔨 Đang Xây Dựng</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Full--Stack-3498db?style=for-the-badge" />
+        <br/>
+        <img src="https://img.shields.io/badge/Web_App-2ECC71?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="33%">
+      <h4 align="center">🎯 Mục Tiêu</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Open_Source-E74C3C?style=for-the-badge" />
+        <br/>
+        <img src="https://img.shields.io/badge/Learn_Daily-F39C12?style=for-the-badge" />
+      </p>
     </td>
   </tr>
 </table>
 
 </div>
 
-## 🎵 Nghe Nhạc
+## 📊 GitHub Insights
 
 <div align="center">
 
-<!-- Spotify -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b8b&bar_color_cover=false)](https://open.spotify.com/user/yourspotifyid)
-
-</div>
-
-## 📝 Blog & Bài Viết
-
-<div align="center">
-
-<!-- Dev.to articles -->
-<a href="https://dev.to/yourusername">
-  <img src="https://dev-to-badge.vercel.app/api/articles?username=yourusername&theme=radical" alt="Dev.to articles" />
-</a>
-
-<!-- Hashnode articles -->
-<a href="https://hashnode.com/@yourusername">
-  <img src="https://hashnode-badge.vercel.app/api/badge?username=yourusername&theme=radical" alt="Hashnode" />
-</a>
-
-</div>
-
-## 🎨 Sở Thích & Sở Trường
-
-<div align="center">
-
-<!-- Hobbies -->
-<p>
-  <img src="https://img.shields.io/badge/🎮-Gaming-ff6b8b?style=flat-square" />
-  <img src="https://img.shields.io/badge/📚-Đọc Sách-ff6b8b?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎵-Âm Nhạc-ff6b8b?style=flat-square" />
-  <img src="https://img.shields.io/badge/✏️-Viết Blog-ff6b8b?style=flat-square" />
-  <img src="https://img.shields.io/badge/🚴-Đạp Xe-ff6b8b?style=flat-square" />
-</p>
-
-</div>
-
-## 🤝 Hợp Tác & Liên Hệ
-
-<div align="center">
-
-<!-- Contact cards -->
 <table>
   <tr>
-    <td align="center" width="140">
-      <a href="https://calendly.com/yourusername">
-        <img src="https://img.icons8.com/color/96/000000/calendar--v1.png" width="60" />
-        <br/>
-        <b>Lịch hẹn</b>
-      </a>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical&hide_border=true&layout=compact&langs_count=6&custom_title=Thời+Gian+Code&locale=vi" alt="WakaTime" height="150" />
     </td>
-    <td align="center" width="140">
-      <a href="https://discord.com/users/yourdiscord">
-        <img src="https://img.icons8.com/color/96/000000/discord--v2.png" width="60" />
-        <br/>
-        <b>Discord</b>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://twitter.com/yourusername">
-        <img src="https://img.icons8.com/color/96/000000/twitter--v1.png" width="60" />
-        <br/>
-        <b>Twitter</b>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://t.me/yourusername">
-        <img src="https://img.icons8.com/color/96/000000/telegram-app.png" width="60" />
-        <br/>
-        <b>Telegram</b>
-      </a>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=donut&langs_count=6&custom_title=Ngôn+Ngữ+Ưa+Thích&locale=vi" alt="Ngôn ngữ ưa thích" height="150" />
     </td>
   </tr>
 </table>
 
 </div>
 
-## 📊 GitHub Metrics
+## 📝 Thống Kê Chi Tiết
 
 <div align="center">
 
@@ -244,27 +196,27 @@
 
 </div>
 
----
+## 🎯 Sở Thích & Sở Trường
 
 <div align="center">
 
-<!-- Footer với hiệu ứng sóng -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b8b&height=100&section=footer&text=Cảm+ơn+đã+ghé+thăm+🎉&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer" />
-
-<!-- Visitor counter -->
+<!-- Hobbies with better icons -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff6b8b&style=for-the-badge&label=👁️+Lượt+xem" alt="Visitor count" />
-  <img src="https://img.shields.io/github/followers/yourusername?color=ff6b8b&style=for-the-badge&label=👥+Theo+dõi" alt="Followers" />
+  <img src="https://img.shields.io/badge/💻_Lập_Trình-3498db?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/📚_Đọc_Sách-2ECC71?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎵_Âm_Nhạc-E74C3C?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎮_Gaming-9B59B6?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏃_Thể_Thao-F39C12?style=for-the-badge&logo=running&logoColor=white" />
 </p>
 
-<!-- Star button -->
-<p align="center">
-  ⭐ <b>Hãy để lại một ngôi sao nếu bạn thích hồ sơ này!</b> ⭐
-</p>
+<!-- Coding Stats -->
+<details>
+<summary><b>📈 Thống Kê Lập Trình</b></summary>
+<br>
 
-<!-- Made with love -->
-<p align="center">
-  Made with ❤️ by <b>Lại</b>
-</p>
-
-</div>
+```text
+💻 Hàng tuần: 35 giờ
+📅 Hàng tháng: 140 giờ
+🚀 Commit trung bình: 15/ngày
+📊 Tỷ lệ code sạch: 92%
+🎯 Hiệu suất: ⭐⭐⭐⭐⭐
